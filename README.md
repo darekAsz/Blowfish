@@ -6,4 +6,8 @@ Algorytm Blowfish służący do szyfrowania plików z wykorzystaniem biblioteki 
 -klucze prywatny/publiczny wygenerowane za pomocą rsageneratora
 
 hasła: do poprawnego odszyfrowania należy podać następujące hasło:
-            haslo[Imie]1   ->  gdzie [Imie] to nazaw użytkownika dla którego dokonujemy deszyfracji, np hasloAdam1, hasloFilip1  (BEZ ZNAKÓW POLSKICH)
+            haslo[Imie]1   ->  gdzie [Imie] to nazwa użytkownika dla którego dokonujemy deszyfracji, np hasloAdam1, hasloFilip1  (BEZ ZNAKÓW POLSKICH)
+            
+            
+           
+Passwords: to correct decryption you must give password:   haslo[Name]1  -> where [Name] is name of selected user, for example: hasloAdam1 for user Adam
