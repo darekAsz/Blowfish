@@ -1,0 +1,9 @@
+c:\users\darek\documents\visual studio 2015\Projects\blowfish\blowfish\bin\Debug\blowfish.exe.config
+c:\users\darek\documents\visual studio 2015\Projects\blowfish\blowfish\obj\Debug\blowfish.MainPanel.resources
+c:\users\darek\documents\visual studio 2015\Projects\blowfish\blowfish\obj\Debug\blowfish.Properties.Resources.resources
+c:\users\darek\documents\visual studio 2015\Projects\blowfish\blowfish\obj\Debug\blowfish.csproj.GenerateResource.Cache
+c:\users\darek\documents\visual studio 2015\Projects\blowfish\blowfish\bin\Debug\blowfish.exe
+c:\users\darek\documents\visual studio 2015\Projects\blowfish\blowfish\bin\Debug\blowfish.pdb
+c:\users\darek\documents\visual studio 2015\Projects\blowfish\blowfish\obj\Debug\blowfish.exe
+c:\users\darek\documents\visual studio 2015\Projects\blowfish\blowfish\obj\Debug\blowfish.pdb
+C:\Users\Darek\documents\visual studio 2015\Projects\blowfish\blowfish\obj\Debug\blowfish.csprojResolveAssemblyReference.cache

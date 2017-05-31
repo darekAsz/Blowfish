@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<EncryptedFileHeader>
+  <Algorithm>Blowfish</Algorithm>
+  <KeySize>32</KeySize>
+  <BlockSize>64</BlockSize>
+  <CipherMode>ECB</CipherMode>
+  <ApprovedUsers>
+    <User>
+      <Name>Angelika</Name>
+      <SessionKey>hG6KtSqx1FKiR+0sRatq4w6b6wmiGl3byixi2JpRRprEyh/Of2WVZQIbwbLpSoUKS5F+aTqlsotxkxsUX5zdQI2K9DSm/H1DuLcRR+irqCIRxx1pTFz79ReSbKpXVDPIOe2AroEi4wXE1k6rwmLTmQ/IoRugBVQFbHUXBvsVC0d4t1LlIhM8LME6CBmZ9nozlq66ISSZC/EIb27n2SF/EP6JOUQxNjJFE9xoC87FDjoaV/8I7OKS+jGCv1X3z1FHNpSulVc1zSetcvC1ZJOjxaUHtzC0BtqLvZLCBBuTHbtfBR5qTj37UAh9cExwn34dWfcIxr01GB4hPmmym9cbsA==</SessionKey>
+    </User>
+    <User>
+      <Name>Brygida</Name>
+      <SessionKey>tRNJXzVqX77TS/7yMvwY3yEquvMLsdG1b9tlCFu1TwCHfmN4fjSMWrdjotXBaipdf256it8sXAXJ+eFVEGFbD8fu7PCen4XBYsfVnS+Dfk7mTG7fs+4DSlCGCHgNx0Lv+H0MVtlVeFswO6uZGsOA+mBODw9BAB2GnjxzXSLaKqWCtIf7pDBszgzl1FmH9syBdAHnnhc9Twx8eme013rvlPVuYk3+xdb54gE3WreovJp29UkZyeR+RK145Ui+LDPJQSd+o4yHyYT+kZDPw93zhrdNM0gvs54ThCOrQ8m3O6E4bgOHVOsIWKTPNvi2zi4akKqQTbshh1wowQM/rnMOAg==</SessionKey>
+    </User>
+    <User>
+      <Name>Halina</Name>
+      <SessionKey>cYu/kjgSiaEK5R7RdLB4U/xyQLXBLQmhlKBUlOJtAGQH+K9gPV01z+HnHwwjIQUBB6HDFpAsZp8ZsiM7zHlPdeykD7vBKzSySDozWnwG4sj2mmAjClmXLUXLqLdOzVrT4LIdnI6Snd5wg6j3lVW1fVOVJfRnWeWbU2SwSoNFspZjxhsqOh197bC/HE0p4Ik6EbRSQHiVzRQBVDTlAlAk4iSd5dIBKNIYq0mCizLMZQpMJaqGPMDob1FWpx85n9OzYUpxliQv/fIYP1tyPPNJpueb5LsBAU2NEJOMjJBvIVqKHjXIyF1BcMwCksQKxsD26bbxpxf4oFm9gxRd2PeJIQ==</SessionKey>
+    </User>
+    <User>
+      <Name>Maciek</Name>
+      <SessionKey>iAjBWm8SatJmT4h4GWnNe0iX3GlBMIwWlnC2KNXH398aRPEbPfLfwSUNt7KzTXb4GtTqrvbv7D9s7r7eS69JC1Gax4ysqVtyIiBYWyJRixRTovkxbozCKXs4XIom9kPgOACUuohaygdKEkGeJPSwYEuhL/IX1ZwV7dpZTe5euBIqi/H/5HXQlSagFb/TRksnfUQKbMw9DSMCjGuMC2Ah96aR0GHemcK75L1g+BFWxuQlkSY6eotGo5YCl62iH44TqbETUomAhbnu4vDL7OCalxsAuAcN4HAjNkkcVBI6K/w6/wfqxRK+95i4cShQGVXKBPcM0oQfZen6OEAtfWNixQ==</SessionKey>
+    </User>
+  </ApprovedUsers>
+</EncryptedFileHeader>
