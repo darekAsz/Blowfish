@@ -1,4 +1,4 @@
-# Blowfish  # c# # csharp
+# Blowfish   c#  csharp
 Algorytm Blowfish służący do szyfrowania plików z wykorzystaniem biblioteki Bouncy Castle
 
 -wybieranie wielu użytkowników za pomocą klawisza ctrl
